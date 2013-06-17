@@ -1,0 +1,322 @@
+/*
+==  CUSTOM STYLESHEET  ========================================================
+
+HOW TO USE THIS FILE:
+	Simply copy an existing style from the style.css file to this one and 
+	modify however you like. It will override the default style.
+
+WHY USE THIS FILE:
+	Adding your custom CSS here will make it much easier to upgrade to a 
+	newer version of this theme without losing any of your customizations.
+
+===============================================================================
+ADD YOUR CUSTOM CSS BELOW THIS LINE */
+
+
+.single-portfolio #header{
+	margin-bottom: -10px;
+}
+
+.vtpHeader{
+	display:none;
+}
+
+.page-template-template-home-php .vtpHeader{
+	display:block;
+	background: url(images/vancouver3.jpg)no-repeat;
+	height:330px;
+}
+
+#vtpBox{
+	margin: 0 auto;
+    position: relative;
+    width: 770px;
+    top:50px;
+}
+
+#vtpText{
+	background: url(images/headerBox.png)no-repeat;
+	height: 191px;
+	position: relative;
+    top: -6px;
+}
+
+#vtpText h2{
+	color: white;
+    font-family: 'Open Sans',"Helvetica Neue",Helvetica,Arial,Geneva,sans-serif;
+    left: 30px;
+    line-height: 12px;
+    position: relative;
+    top: 50px;
+    width: 95%;
+    text-transform: capitalize;
+}
+
+#vtpText p {
+    color: white;
+    float: left;
+    font-family: 'Open Sans',"Helvetica Neue",Helvetica,Arial,Geneva,sans-serif;
+    font-size: 15px;
+    left: 30px;
+    margin: 0 auto;
+    position: relative;
+    top: 57px;
+    font-size: 12px;
+    width:92%;
+}
+
+
+.page-template-template-home-php #container{
+	background: url(images/box.png);
+	padding:20px;
+}
+
+.portfolio.type-portfolio.status-publish.hentry{
+	padding:6px !important;
+	background-color:#eee;
+}
+
+#masonry li .hentry{
+	padding:6px;
+	background-color:#eee;
+}
+
+#logo{
+
+}
+
+.page-template-template-home-php .content-slider .slide{
+	background: none;
+}
+
+.page-template-template-home-php #related .widget-title, .page-template-template-home-php .widget-title{
+	background:none;
+	margin-bottom:18px;
+	border-bottom: 1px solid white;
+	height:12px;
+}
+
+.page-template-template-home-php #related .widget-title span, .page-template-template-home-php .widget-title span{
+	background:none;
+	color: black;
+	font-size: 13px;
+}
+
+.page-template-template-home-php .content-slider .slide .post-title{
+	color:black;
+}
+
+.page-template-template-home-php .post-title a{
+	color:#000;
+}
+
+a.more-link, a.follow-me, .content-slider a.visit{
+	color:#000;
+}
+
+.page-template-template-home-php .post-content{
+	color:#000;
+}
+
+.meta-categories a{
+	color:#575757;
+}
+
+.textwidget{
+	color:black;
+	text-align:center;
+	padding:20px;
+	font-weight: bold;
+	font-family: 'Open Sans',"Helvetica Neue",Helvetica,Arial,Geneva,sans-serif;
+	color:#516774;
+}
+
+
+#footer-widgets .col.first{
+	width:625px;
+}
+
+#mc_signup{
+	background: url("images/enews-icon-min.png") no-repeat scroll center center #F5F5F5;
+    border-radius: 4px 4px 4px 4px;
+    height: 98px;
+    padding: 20px;
+}
+
+#mc_subheader{
+	float: left;
+    font-size: 15px;
+    left: 10px;
+    margin-bottom: 10px;
+    position: relative;
+    top: 22px;
+    width: 400px;
+    color:#7a8a93;
+	font-family: 'Open Sans',"Helvetica Neue",Helvetica,Arial,Geneva,sans-serif;
+}
+
+.mc_form_inside{
+    float: left;
+    height: 20px;
+    left: 149px;
+    position: relative;
+    top: -5px;
+    width: 419px;
+    color:#7a8a93;
+    font-family: 'Open Sans',"Helvetica Neue",Helvetica,Arial,Geneva,sans-serif;
+}
+
+
+.mc_var_label{
+	position:relative;
+	float:left;
+	width:100px;
+	margin-bottom: 2px;
+}
+
+#mc_signup_submit{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: url("images/button-bg-min.png") repeat scroll 0 0 #222222;
+    border-color: #111111;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 0 1px;
+    box-shadow: 0 0 2px #555555;
+    color: #F5F5F5 !important;
+    display: block;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0 !important;
+    padding: 10px 15px;
+    position: relative;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.35);
+    height: 36px;
+    width:120px;
+    top:15px;
+}
+
+#mc_signup_submit:hover {
+	background-position: 0 -33px;
+}
+
+#mc-indicates-required{
+	display:none;
+}
+
+.mc_merge_var{
+	position:relative;
+	float:left;
+    width: 192px;
+}
+
+#mc_message{
+	float: left;
+    left: 130px;
+    margin-bottom: 13px;
+    position: absolute;
+    top: 66px;
+    width: 231px;
+}
+
+#mc_signup_form .mc_input{
+	width:159px;
+}
+
+/* FOOTER SETTINGS MAIL CHIMP FORM
+#mc_signup{
+	background: url("images/enews-icon-min.png") no-repeat scroll left top transparent;
+    border-radius: 4px 4px 4px 4px;
+    height: 220px;
+    background-position:center top;
+}
+
+#mc_subheader{
+	float: left;
+    margin-bottom: 10px;
+    position: relative;
+    top: 2px;
+    width: 239px;
+    font-size: 13px;
+}
+
+.mc_form_inside{
+    float: left;
+    height: 20px;
+    left: 155px;
+    position: relative;
+    top: -21px;
+    width: 259px;
+}
+
+
+
+.mc_var_label{
+	position:relative;
+	float:left;
+	width:100px;
+	margin-bottom: 2px;
+}
+
+#mc_signup_submit{
+	-moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background: url("images/button-bg-min.png") repeat scroll 0 0 #222222;
+    border-color: #111111;
+    border-image: none;
+    border-radius: 4px 4px 4px 4px;
+    border-style: solid;
+    border-width: 0 1px;
+    box-shadow: 0 0 2px #555555;
+    color: #F5F5F5 !important;
+    display: block;
+    float: left;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 1;
+    margin: 0 !important;
+    padding: 10px 15px;
+    position: relative;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.35);
+    height: 36px;
+    width:120px;
+    top:15px;
+}
+
+#mc_signup_submit:hover {
+	background-position: 0 -33px;
+}
+
+#mc-indicates-required{
+	display:none;
+}
+
+.mc_merge_var{
+	position:relative;
+	float:left;
+	margin-bottom:20px;
+}
+
+#mc_message{
+	float: left;
+    margin-bottom: 13px;
+    position: relative;
+    top: 10px;
+    width:230px;
+}
+*/
+/*
+.box{
+	background: url(images/box.png);
+}
+
+#related .widget-title, .page-template-template-home-php .widget-title{
+	background: url(images/box.png);
+}*/

@@ -1,0 +1,1456 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Engine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-02-15 19:47+0100\n"
+"PO-Revision-Date: 2012-02-15 19:47+0100\n"
+"Last-Translator: Steve <stephenbluck@msn.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: comments.php:10
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:26
+#: index.php:56
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:26
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:26
+#: index.php:56
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:51
+msgid "Comments are now closed for this article."
+msgstr ""
+
+#: comments.php:75
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:75
+#, php-format
+msgid "Leave a Comment to %s"
+msgstr ""
+
+#: comments.php:82
+#, php-format
+msgid "You must be %1$slogged in%2$s to post a comment."
+msgstr ""
+
+#: comments.php:89
+msgid "Your comment…"
+msgstr ""
+
+#: comments.php:99
+#, php-format
+msgid "Logged in as %1$s. %2$sLog out &raquo;%3$s"
+msgstr ""
+
+#: comments.php:99
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:104
+msgid "Name *"
+msgstr ""
+
+#: comments.php:108
+msgid "Email Address *"
+msgstr ""
+
+#: comments.php:112
+msgid "Website"
+msgstr ""
+
+#: comments.php:118
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:77
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:34
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:108
+msgid "Homepage Widgets"
+msgstr ""
+
+#: functions.php:110
+msgid "Widget areas displayed below the slider on the homepage."
+msgstr ""
+
+#: functions.php:118
+msgid "Global Sidebar"
+msgstr ""
+
+#: functions.php:120
+msgid "Default sidebar widget area. Displayed on all page types (posts, pages, archives, etc)."
+msgstr ""
+
+#: functions.php:128
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:130
+msgid "Sidebar widget area only displayed on archives and single posts."
+msgstr ""
+
+#: functions.php:138
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:140
+msgid "Sidebar widget area only displayed on pages."
+msgstr ""
+
+#: functions.php:148
+msgid "Footer Column 1 (wide)"
+msgstr ""
+
+#: functions.php:150
+msgid "Footer widget area spanning half the page width."
+msgstr ""
+
+#: functions.php:158
+msgid "Footer Column 2"
+msgstr ""
+
+#: functions.php:160
+#: functions.php:170
+#: functions.php:180
+msgid "Footer widget area."
+msgstr ""
+
+#: functions.php:168
+msgid "Footer Column 3"
+msgstr ""
+
+#: functions.php:178
+msgid "Footer Column 4"
+msgstr ""
+
+#: functions.php:206
+#: functions.php:207
+msgid "Portfolio"
+msgstr ""
+
+#: functions.php:208
+#: functions.php:224
+#: functions.php:240
+msgid "Add New"
+msgstr ""
+
+#: functions.php:209
+#: functions.php:225
+#: functions.php:241
+msgid "Add New Item"
+msgstr ""
+
+#: functions.php:210
+#: functions.php:226
+#: functions.php:242
+msgid "Edit Item"
+msgstr ""
+
+#: functions.php:211
+#: functions.php:227
+#: functions.php:243
+msgid "New Item"
+msgstr ""
+
+#: functions.php:212
+#: functions.php:228
+#: functions.php:244
+msgid "View Item"
+msgstr ""
+
+#: functions.php:213
+#: functions.php:229
+#: functions.php:245
+msgid "Search Item"
+msgstr ""
+
+#: functions.php:214
+#: functions.php:230
+#: functions.php:246
+msgid "No Items Found"
+msgstr ""
+
+#: functions.php:215
+#: functions.php:231
+#: functions.php:247
+msgid "No Items Found in Trash"
+msgstr ""
+
+#: functions.php:222
+msgid "Testimonials"
+msgstr ""
+
+#: functions.php:223
+msgid "Testimonial"
+msgstr ""
+
+#: functions.php:238
+msgid "Slides"
+msgstr ""
+
+#: functions.php:239
+msgid "Slide"
+msgstr ""
+
+#: functions.php:348
+msgid "Left"
+msgstr ""
+
+#: functions.php:352
+msgid "Right"
+msgstr ""
+
+#: functions.php:356
+msgid "None"
+msgstr ""
+
+#: functions.php:396
+msgid "Light"
+msgstr ""
+
+#: functions.php:400
+msgid "Dark"
+msgstr ""
+
+#: functions.php:451
+msgid "ago"
+msgstr ""
+
+#: functions.php:461
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:486
+#, php-format
+msgid "View all items filed under %s"
+msgstr ""
+
+#: functions.php:502
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: functions.php:577
+msgid "Select a Page"
+msgstr ""
+
+#: header.php:27
+msgid "Minimal"
+msgstr ""
+
+#: header.php:125
+msgid "Menu"
+msgstr ""
+
+#: index.php:22
+#: index.php:47
+#: single-portfolio.php:116
+#: single-portfolio.php:141
+#: taxonomy-group.php:67
+#: taxonomy-group.php:92
+#: template-portfolio.php:72
+#: template-portfolio.php:97
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: index.php:56
+msgid "1 Comment"
+msgstr ""
+
+#: index.php:64
+#: single.php:44
+msgid "Read more"
+msgstr ""
+
+#: page.php:17
+msgid "Pages:"
+msgstr ""
+
+#: searchform.php:4
+msgid "To search type and hit enter"
+msgstr ""
+
+#: single-portfolio.php:67
+msgid "Overview"
+msgstr ""
+
+#: single-portfolio.php:98
+msgid "Related"
+msgstr ""
+
+#: single-portfolio.php:163
+msgid "There are no related posts right now."
+msgstr ""
+
+#: taxonomy-group.php:8
+#: template-portfolio.php:14
+msgid "All"
+msgstr ""
+
+#: engine/functions/admin-columns.php:23
+msgid "Image"
+msgstr ""
+
+#: engine/functions/admin-columns.php:24
+msgid "Title"
+msgstr ""
+
+#: engine/functions/admin-columns.php:25
+msgid "Author"
+msgstr ""
+
+#: engine/functions/admin-columns.php:26
+msgid "Category"
+msgstr ""
+
+#: engine/functions/admin-columns.php:27
+msgid "Tags"
+msgstr ""
+
+#: engine/functions/admin-columns.php:29
+msgid "Date"
+msgstr ""
+
+#: engine/functions/admin-posttypes.php:20
+msgid "Add New "
+msgstr ""
+
+#: engine/functions/admin-posttypes.php:21
+msgid "Edit "
+msgstr ""
+
+#: engine/functions/admin-posttypes.php:22
+msgid "New "
+msgstr ""
+
+#: engine/functions/admin-posttypes.php:23
+msgid "View "
+msgstr ""
+
+#: engine/functions/admin-posttypes.php:24
+msgid "Search "
+msgstr ""
+
+#: engine/functions/admin-posttypes.php:25
+#: engine/functions/admin-posttypes.php:26
+msgid "No "
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:27
+msgid "Browse:"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:30
+msgid "Home"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:278
+msgid "g:i a"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:281
+#, php-format
+msgid "Minute %1$s"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:281
+msgid "i"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:284
+msgid "g a"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:295
+#: engine/functions/theme-breadcrumbs.php:301
+#: engine/functions/theme-breadcrumbs.php:306
+#: engine/functions/theme-breadcrumbs.php:311
+#: engine/functions/theme-breadcrumbs.php:376
+msgid "Y"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:296
+#: engine/functions/theme-breadcrumbs.php:307
+#: engine/functions/theme-breadcrumbs.php:380
+msgid "F"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:297
+#: engine/functions/theme-breadcrumbs.php:384
+msgid "d"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:302
+#, php-format
+msgid "Week %1$s"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:318
+#, php-format
+msgid "Search results for &quot;%1$s&quot;"
+msgstr ""
+
+#: engine/functions/theme-breadcrumbs.php:322
+msgid "404 Not Found"
+msgstr ""
+
+#: engine/functions/theme-contact.php:26
+msgid "Name:"
+msgstr ""
+
+#: engine/functions/theme-contact.php:31
+msgid "Email:"
+msgstr ""
+
+#: engine/functions/theme-contact.php:43
+#: engine/functions/theme-contact.php:56
+msgid "Subject:"
+msgstr ""
+
+#: engine/functions/theme-contact.php:64
+msgid "Message:"
+msgstr ""
+
+#: engine/functions/theme-contact.php:74
+msgid "Submit"
+msgstr ""
+
+#: engine/functions/theme-contact.php:108
+msgid "Attention! Please enter your name."
+msgstr ""
+
+#: engine/functions/theme-contact.php:111
+msgid "Attention! Please enter your email address."
+msgstr ""
+
+#: engine/functions/theme-contact.php:114
+msgid "Attention! Invalid email address, please try again."
+msgstr ""
+
+#: engine/functions/theme-contact.php:123
+msgid "Attention! Please enter your message."
+msgstr ""
+
+#: engine/functions/theme-contact.php:126
+msgid "Attention! Please enter the verification number."
+msgstr ""
+
+#: engine/functions/theme-contact.php:129
+msgid "Attention! The verification number you entered is incorrect."
+msgstr ""
+
+#: engine/functions/theme-contact.php:167
+msgid "From:"
+msgstr ""
+
+#: engine/functions/theme-contact.php:167
+msgid "Reply-To:"
+msgstr ""
+
+#: engine/functions/theme-contact.php:167
+msgid "Return-Path:"
+msgstr ""
+
+#: engine/functions/theme-contact.php:171
+msgid "Email Sent Successfully"
+msgstr ""
+
+#: engine/functions/theme-contact.php:172
+msgid "Thank you, your message has been submitted."
+msgstr ""
+
+#: engine/functions/theme-extensions.php:86
+#: engine/functions/theme-extensions.php:94
+#: engine/functions/theme-extensions.php:115
+#: engine/functions/theme-extensions.php:123
+msgid "Remove"
+msgstr ""
+
+#: engine/functions/theme-extensions.php:98
+#: engine/functions/theme-extensions.php:127
+msgid "Add +"
+msgstr ""
+
+#: engine/functions/theme-shortcodes.php:72
+msgid "Pages"
+msgstr ""
+
+#: engine/functions/theme-shortcodes.php:74
+msgid "Categories"
+msgstr ""
+
+#: engine/functions/theme-shortcodes.php:76
+msgid "Authors"
+msgstr ""
+
+#: engine/functions/theme-shortcodes.php:80
+msgid "Monthly Archives"
+msgstr ""
+
+#: engine/functions/theme-shortcodes.php:82
+msgid "Latest Posts"
+msgstr ""
+
+#: engine/options/admin-import-export.php:69
+msgid "Saving options…"
+msgstr ""
+
+#: engine/options/admin-import-export.php:73
+msgid "Options saved!"
+msgstr ""
+
+#: engine/options/admin-import-export.php:74
+msgid "View live site &raquo;"
+msgstr ""
+
+#: engine/options/admin-import-export.php:79
+msgid "Settings Manager"
+msgstr ""
+
+#: engine/options/admin-import-export.php:80
+msgid "Download, upload or restore theme options, widget settings and site content"
+msgstr ""
+
+#: engine/options/admin-import-export.php:84
+msgid "Default Settings and Sample Content"
+msgstr ""
+
+#: engine/options/admin-import-export.php:85
+#: engine/options/admin-import-export.php:191
+msgid "Export Settings"
+msgstr ""
+
+#: engine/options/admin-import-export.php:86
+#: engine/options/admin-import-export.php:278
+msgid "Import Settings"
+msgstr ""
+
+#: engine/options/admin-import-export.php:99
+msgid "Default Settings"
+msgstr ""
+
+#: engine/options/admin-import-export.php:100
+msgid "Load/Restore Default Settings and Sample Content <p>Set default theme options, widget settings or load demo site content.</p>"
+msgstr ""
+
+#: engine/options/admin-import-export.php:108
+msgid "Load/Restore Default Settings and Sample Content"
+msgstr ""
+
+#: engine/options/admin-import-export.php:118
+msgid "Default Theme Options"
+msgstr ""
+
+#: engine/options/admin-import-export.php:124
+msgid "Click this to load or restore the default theme options. Any customisations you've made will be lost."
+msgstr ""
+
+#: engine/options/admin-import-export.php:136
+msgid "Default Widget Settings"
+msgstr ""
+
+#: engine/options/admin-import-export.php:142
+msgid "Click this to load or restore the default widget settings. Widgets will be assigned to widget areas, and settings/content applied"
+msgstr ""
+
+#: engine/options/admin-import-export.php:152
+msgid "Sample Site Content"
+msgstr ""
+
+#: engine/options/admin-import-export.php:155
+msgid "Import Sample Site Content"
+msgstr ""
+
+#: engine/options/admin-import-export.php:158
+msgid "Use the import tool to upload the sample content <strong>.xml</strong> file included in the <strong>[theme-name]/tuning/defaults/</strong> folder of your theme. This will load demo site data including posts, pages, comments, categories, images, etc"
+msgstr ""
+
+#: engine/options/admin-import-export.php:192
+msgid "Export &amp; Download Theme Settings <p>Download your current theme options, widget settings and site content to be saved and imported later.</p>"
+msgstr ""
+
+#: engine/options/admin-import-export.php:200
+msgid "Export &amp; Download Theme Settings"
+msgstr ""
+
+#: engine/options/admin-import-export.php:208
+#: engine/options/admin-import-export.php:296
+msgid "Theme Options"
+msgstr ""
+
+#: engine/options/admin-import-export.php:216
+msgid "Click to download the exported theme options as a text file"
+msgstr ""
+
+#: engine/options/admin-import-export.php:226
+#: engine/options/admin-import-export.php:313
+msgid "Widget Settings"
+msgstr ""
+
+#: engine/options/admin-import-export.php:234
+msgid "Click to download the exported widget settings as a text file"
+msgstr ""
+
+#: engine/options/admin-import-export.php:243
+#: engine/options/admin-import-export.php:330
+msgid "Site Data XML"
+msgstr ""
+
+#: engine/options/admin-import-export.php:246
+msgid "Export WordPress XML File"
+msgstr ""
+
+#: engine/options/admin-import-export.php:249
+msgid "Click to go to the export tool where you can create an XML file containing your site data (posts, pages, comments, custom fields, categories, and tags)"
+msgstr ""
+
+#: engine/options/admin-import-export.php:279
+msgid "Import &amp; Overwrite Theme Settings <p>Upload your exported theme options, widget settings and site content files to be imported.</p>"
+msgstr ""
+
+#: engine/options/admin-import-export.php:287
+msgid "Import &amp; Overwrite Theme Settings"
+msgstr ""
+
+#: engine/options/admin-import-export.php:300
+msgid "Upload Theme Options File"
+msgstr ""
+
+#: engine/options/admin-import-export.php:303
+msgid "Upload a file with exported theme options, and these options will get imported"
+msgstr ""
+
+#: engine/options/admin-import-export.php:317
+msgid "Upload Widget Settings File"
+msgstr ""
+
+#: engine/options/admin-import-export.php:320
+msgid "Upload a file with exported widget settings, and these settings will get imported"
+msgstr ""
+
+#: engine/options/admin-import-export.php:333
+msgid "Import WordPress XML File"
+msgstr ""
+
+#: engine/options/admin-import-export.php:336
+msgid "Click to go to the import tool to upload an XML file containing your site data (posts, pages, comments, custom fields, categories, and tags)"
+msgstr ""
+
+#: engine/options/admin-main.php:29
+msgid "settings savedengine"
+msgstr ""
+
+#: engine/options/admin-main.php:30
+msgid "settings resetengine"
+msgstr ""
+
+#: engine/options/admin-main.php:53
+msgid "Theme Version"
+msgstr ""
+
+#: engine/options/admin-main.php:54
+msgid "Engine Version"
+msgstr ""
+
+#: engine/options/admin-main.php:60
+#: engine/options/admin-main.php:61
+msgid "Show/Hide All Options"
+msgstr ""
+
+#: engine/options/admin-main.php:92
+msgid "Reset Options"
+msgstr ""
+
+#: engine/widgets/widget-blog.php:12
+msgid "A widget that displays your recent posts."
+msgstr ""
+
+#: engine/widgets/widget-blog.php:23
+msgid "DT - Blog Widgets"
+msgstr ""
+
+#: engine/widgets/widget-blog.php:93
+msgid "Title:"
+msgstr ""
+
+#: engine/widgets/widget-blog.php:99
+msgid "Amount to display:"
+msgstr ""
+
+#: engine/widgets/widget-enews.php:9
+msgid "Displays Feedburner email subscribe form"
+msgstr ""
+
+#: engine/widgets/widget-enews.php:10
+msgid "DT - Newsletter Sign-up"
+msgstr ""
+
+#: engine/widgets/widget-enews.php:101
+msgid "Description"
+msgstr ""
+
+#: engine/widgets/widget-enews.php:106
+msgid "Google/Feedburner ID"
+msgstr ""
+
+#: engine/widgets/widget-enews.php:111
+msgid "Enter your email address..."
+msgstr ""
+
+#: engine/widgets/widget-enews.php:112
+msgid "Input Text"
+msgstr ""
+
+#: engine/widgets/widget-enews.php:117
+msgid "Go"
+msgstr ""
+
+#: engine/widgets/widget-enews.php:118
+msgid "Button Text"
+msgstr ""
+
+#: engine/widgets/widget-getposts.php:106
+#: engine/widgets/widget-similarrelated.php:92
+#: engine/widgets/widget-similarrelated.php:169
+#: engine/widgets/widget-similarrelated.php:236
+msgid "Posted by"
+msgstr ""
+
+#: engine/widgets/widget-getposts.php:107
+#: engine/widgets/widget-similarrelated.php:93
+#: engine/widgets/widget-similarrelated.php:170
+#: engine/widgets/widget-similarrelated.php:237
+msgid "on"
+msgstr ""
+
+#: engine/widgets/widget-getposts.php:121
+#: engine/widgets/widget-similarrelated.php:108
+#: engine/widgets/widget-similarrelated.php:184
+#: engine/widgets/widget-similarrelated.php:252
+msgid "Posted in"
+msgstr ""
+
+#: engine/widgets/widget-twittertweets.php:18
+msgid "A widget that displays your latest tweets."
+msgstr ""
+
+#: engine/widgets/widget-twittertweets.php:24
+msgid "DT - Latest Tweets"
+msgstr ""
+
+#: engine/widgets/widget-twittertweets.php:124
+msgid "Twitter Username e.g. designerthemes"
+msgstr ""
+
+#: engine/widgets/widget-twittertweets.php:130
+msgid "Number of tweets (max 20)"
+msgstr ""
+
+#: engine/widgets/widget-twittertweets.php:136
+msgid "Follow Text e.g. Follow me on Twitter"
+msgstr ""
+
+#: engine/widgets/widget-video.php:10
+msgid "A widget that displays your YouTube or Vimeo Video."
+msgstr ""
+
+#: engine/widgets/widget-video.php:21
+msgid "DT - Video Widget"
+msgstr ""
+
+#: engine/widgets/widget-video.php:95
+msgid "Embed Code:"
+msgstr ""
+
+#: engine/widgets/widget-video.php:101
+msgid "Short Description:"
+msgstr ""
+
+#: includes/header-title.php:21
+#, php-format
+msgid "All posts in %s"
+msgstr ""
+
+#: includes/header-title.php:24
+#, php-format
+msgid "All posts tagged %s"
+msgstr ""
+
+#: includes/header-title.php:27
+#: includes/header-title.php:30
+#: includes/header-title.php:33
+msgid "Archive for"
+msgstr ""
+
+#: includes/header-title.php:36
+msgid "All posts by"
+msgstr ""
+
+#: includes/header-title.php:39
+msgid "Blog Archives"
+msgstr ""
+
+#: includes/header-title.php:42
+msgid "Search Results:"
+msgstr ""
+
+#: includes/header-title.php:55
+msgid "Sorry, we can't find what you're looking for!"
+msgstr ""
+
+#: includes/home-slider.php:37
+msgid "Center"
+msgstr ""
+
+#: includes/widget-callout.php:12
+msgid "A widget that displays a callout."
+msgstr ""
+
+#: includes/widget-callout.php:18
+msgid "DT - Callout"
+msgstr ""
+
+#: includes/widget-callout.php:125
+msgid "Link Text"
+msgstr ""
+
+#: includes/widget-callout.php:131
+msgid "URL"
+msgstr ""
+
+#: includes/widget-contentslider.php:12
+msgid "A widget that displays your portfolio, blog and tweets. Only supported on the home page"
+msgstr ""
+
+#: includes/widget-contentslider.php:18
+msgid "DT - Content Tabs"
+msgstr ""
+
+#: includes/widget-contentslider.php:80
+#: includes/widget-contentslider.php:202
+#: includes/widget-contentslider.php:451
+#: includes/widget-contentslider.php:485
+msgid "Random"
+msgstr ""
+
+#: includes/widget-contentslider.php:189
+msgid "Go to Portfolio"
+msgstr ""
+
+#: includes/widget-contentslider.php:296
+msgid "Go to Blog"
+msgstr ""
+
+#: includes/widget-contentslider.php:311
+msgid "Follow"
+msgstr ""
+
+#: includes/widget-contentslider.php:420
+msgid "Enable Portfolio Tab"
+msgstr ""
+
+#: includes/widget-contentslider.php:422
+msgid "Enable Blog Tab"
+msgstr ""
+
+#: includes/widget-contentslider.php:424
+msgid "Enable Twitter Tab"
+msgstr ""
+
+#: includes/widget-contentslider.php:428
+msgid "Active Tab"
+msgstr ""
+
+#: includes/widget-contentslider.php:431
+msgid "Blog"
+msgstr ""
+
+#: includes/widget-contentslider.php:432
+msgid "Twitter"
+msgstr ""
+
+#: includes/widget-contentslider.php:439
+msgid "Portfolio Title:"
+msgstr ""
+
+#: includes/widget-contentslider.php:444
+msgid "Portfolio Number:"
+msgstr ""
+
+#: includes/widget-contentslider.php:449
+msgid "Portfolio Order"
+msgstr ""
+
+#: includes/widget-contentslider.php:466
+msgid "Portfolio Page:"
+msgstr ""
+
+#: includes/widget-contentslider.php:473
+msgid "Blog Title:"
+msgstr ""
+
+#: includes/widget-contentslider.php:478
+msgid "Blog Number:"
+msgstr ""
+
+#: includes/widget-contentslider.php:483
+msgid "Blog Order"
+msgstr ""
+
+#: includes/widget-contentslider.php:500
+msgid "Blog Page:"
+msgstr ""
+
+#: includes/widget-contentslider.php:507
+msgid "Twitter Title:"
+msgstr ""
+
+#: includes/widget-contentslider.php:512
+msgid "Twitter Username:"
+msgstr ""
+
+#: includes/widget-contentslider.php:517
+msgid "Twitter Number:"
+msgstr ""
+
+#: includes/widget-infoboxes.php:12
+msgid "A widget that displays a information in a box."
+msgstr ""
+
+#: includes/widget-infoboxes.php:18
+msgid "DT - Info Boxes"
+msgstr ""
+
+#: includes/widget-infoboxes.php:190
+msgid "Our Services"
+msgstr ""
+
+#: includes/widget-infoboxes.php:193
+msgid "what we do"
+msgstr ""
+
+#: includes/widget-infoboxes.php:196
+msgid "Analytics"
+msgstr ""
+
+#: includes/widget-infoboxes.php:199
+msgid "learn more"
+msgstr ""
+
+#: includes/widget-infoboxes.php:202
+msgid "The Team"
+msgstr ""
+
+#: includes/widget-infoboxes.php:205
+msgid "meet the team"
+msgstr ""
+
+#: includes/widget-infoboxes.php:219
+msgid "Enable Box 1"
+msgstr ""
+
+#: includes/widget-infoboxes.php:221
+msgid "Enable Box 2"
+msgstr ""
+
+#: includes/widget-infoboxes.php:223
+msgid "Enable Box 3"
+msgstr ""
+
+#: includes/widget-infoboxes.php:227
+msgid "Box 1 Title"
+msgstr ""
+
+#: includes/widget-infoboxes.php:232
+msgid "Box 1 Icon URL"
+msgstr ""
+
+#: includes/widget-infoboxes.php:237
+msgid "Box 1 Excerpt"
+msgstr ""
+
+#: includes/widget-infoboxes.php:242
+msgid "Box 1 Link Text"
+msgstr ""
+
+#: includes/widget-infoboxes.php:247
+msgid "Box 1 Link"
+msgstr ""
+
+#: includes/widget-infoboxes.php:254
+msgid "Box 2 Title"
+msgstr ""
+
+#: includes/widget-infoboxes.php:259
+msgid "Box 2 Icon URL"
+msgstr ""
+
+#: includes/widget-infoboxes.php:264
+msgid "Box 2 Excerpt"
+msgstr ""
+
+#: includes/widget-infoboxes.php:269
+msgid "Box 2 Link Text"
+msgstr ""
+
+#: includes/widget-infoboxes.php:274
+msgid "Box 2 Link"
+msgstr ""
+
+#: includes/widget-infoboxes.php:281
+msgid "Box 3 Title"
+msgstr ""
+
+#: includes/widget-infoboxes.php:286
+msgid "Box 3 Icon URL"
+msgstr ""
+
+#: includes/widget-infoboxes.php:291
+msgid "Box 3 Excerpt"
+msgstr ""
+
+#: includes/widget-infoboxes.php:296
+msgid "Box 3 Link Text"
+msgstr ""
+
+#: includes/widget-infoboxes.php:301
+msgid "Box 3 Link"
+msgstr ""
+
+#: includes/widget-testimonials.php:12
+msgid "A widget that displays your testimonials."
+msgstr ""
+
+#: includes/widget-testimonials.php:18
+msgid "DT - Testimonials"
+msgstr ""
+
+#: includes/widget-testimonials.php:93
+msgid "There are no testimonials right now."
+msgstr ""
+
+#: includes/widget-testimonials.php:159
+msgid "Number to Display"
+msgstr ""
+
+#: includes/widget-testimonials.php:165
+msgid "Random Order?"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:26
+#: tuning/theme-metaboxes.php:44
+msgid "Optionl Settings"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:33
+#: tuning/theme-metaboxes.php:87
+msgid "Custom Thumbnail"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:34
+#: tuning/theme-metaboxes.php:88
+msgid "To use a custom thumbnail image, upload it here."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:51
+msgid "Name"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:52
+msgid "Enter the name."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:57
+msgid "Business"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:58
+msgid "Enter the business name."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:63
+msgid "Link"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:64
+msgid "Enter the URL for the business."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:74
+#: tuning/theme-metaboxes.php:116
+msgid "Optional Settings"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:81
+msgid "Insert Video (URL)"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:82
+msgid "<em>Example: http://www.youtube.com/watch?v=zonvhlnjwhg</em>To embed a video simply paste the hosted video URL into the field above. The video width and height will be set to fit your theme automatically."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:93
+msgid "Additional Tab Titles"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:94
+msgid "Enter your tab titles."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:99
+msgid "Additional Tab Contents"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:100
+msgid "Enter your tab contents to go with the titles set above."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:105
+msgid "Show Related Items"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:106
+msgid "Check to display related items."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:123
+msgid "Slide Link"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:124
+msgid "Enter the URL you wish the slide title, image and button to link to."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:129
+msgid "Slide Content Alignment"
+msgstr ""
+
+#: tuning/theme-metaboxes.php:130
+msgid "Set how the content of this slide is aligned."
+msgstr ""
+
+#: tuning/theme-metaboxes.php:141
+msgid "Enter an optional button text, this will be displayed under the content. Leave blank to disable."
+msgstr ""
+
+#: tuning/theme-options-home.php:9
+msgid "Congratulations!"
+msgstr ""
+
+#: tuning/theme-options-home.php:9
+msgid "has been successfully installed and activated"
+msgstr ""
+
+#: tuning/theme-options-home.php:11
+msgid "Would you like to start with the default theme configuration?"
+msgstr ""
+
+#: tuning/theme-options-home.php:16
+msgid "Click this button to start with the default configuration of this theme"
+msgstr ""
+
+#: tuning/theme-options-home.php:18
+msgid "OR"
+msgstr ""
+
+#: tuning/theme-options-home.php:20
+msgid "Customise Initial Theme Configuration"
+msgstr ""
+
+#: tuning/theme-options-home.php:22
+msgid "Clicking this link will take you to the <strong>Settings Manager</strong> page where you can choose to load default theme options, widget settings and even demo site content including posts, pages, comments, categories, images, etc."
+msgstr ""
+
+#: tuning/theme-options-home.php:29
+msgid "Hello. Welcome to your Theme Options Dashboard! Here you can easily scan through the available theme options by section and get links to find the answers you're looking for"
+msgstr ""
+
+#: tuning/theme-options-home.php:33
+msgid "Design/Branding Settings"
+msgstr ""
+
+#: tuning/theme-options-home.php:34
+msgid "Design and custom branding settings"
+msgstr ""
+
+#: tuning/theme-options-home.php:38
+msgid "Homepage Settings"
+msgstr ""
+
+#: tuning/theme-options-home.php:39
+msgid "Homepage welcome message and featured posts options"
+msgstr ""
+
+#: tuning/theme-options-home.php:43
+msgid "Display Settings"
+msgstr ""
+
+#: tuning/theme-options-home.php:44
+msgid "Single and Portfolio post display options"
+msgstr ""
+
+#: tuning/theme-options-home.php:48
+#: tuning/theme-options.php:200
+msgid "General Settings"
+msgstr ""
+
+#: tuning/theme-options-home.php:49
+msgid "Contact form, RSS and tracking settings"
+msgstr ""
+
+#: tuning/theme-options-home.php:54
+msgid "Download, upload or restore theme settings and site content"
+msgstr ""
+
+#: tuning/theme-options-home.php:58
+msgid "Support Forums"
+msgstr ""
+
+#: tuning/theme-options-home.php:59
+msgid "For support and documentation, please visit our support forums."
+msgstr ""
+
+#: tuning/theme-options-home.php:63
+msgid "Get More Themes"
+msgstr ""
+
+#: tuning/theme-options-home.php:64
+msgid "More awesome WordPress themes at DesignerThemes.com!"
+msgstr ""
+
+#: tuning/theme-options.php:17
+#: tuning/theme-options.php:18
+msgid "Dashboard"
+msgstr ""
+
+#: tuning/theme-options.php:31
+msgid "Design"
+msgstr ""
+
+#: tuning/theme-options.php:32
+msgid "Design and Branding Settings"
+msgstr ""
+
+#: tuning/theme-options.php:38
+msgid "Design Settings"
+msgstr ""
+
+#: tuning/theme-options.php:41
+msgid "Theme Skin"
+msgstr ""
+
+#: tuning/theme-options.php:44
+msgid "This theme comes with multiple color schemes (or skins). You can change your theme's skin at any time using this dropdown menu."
+msgstr ""
+
+#: tuning/theme-options.php:48
+msgid "Add Custom CSS"
+msgstr ""
+
+#: tuning/theme-options.php:50
+msgid "Make quick changes to your theme by adding some custom CSS to this box. <br /><br />If you'd like to make more than just a few custom CSS changes, it's best to place them in your custom.css file which you can <a href='"
+msgstr ""
+
+#: tuning/theme-options.php:58
+msgid "Branding Options"
+msgstr ""
+
+#: tuning/theme-options.php:61
+msgid "Custom Logo"
+msgstr ""
+
+#: tuning/theme-options.php:63
+msgid "Upload a logo for your theme or enter the image address of your existing logo. <br /><br />Leave this field blank if you'd prefer to just display your site's title and tagline instead of an image. Feel free to make changes to your site's <a href='"
+msgstr ""
+
+#: tuning/theme-options.php:67
+msgid "Custom Favicon"
+msgstr ""
+
+#: tuning/theme-options.php:69
+msgid "Upload a small image to use as your site's favicon, also known as a shortcut icon."
+msgstr ""
+
+#: tuning/theme-options.php:73
+msgid "Custom Default Avatar"
+msgstr ""
+
+#: tuning/theme-options.php:75
+msgid "Upload a custom default comment avatar. Once you've uploaded your custom avatar, change the Default Avatar setting at the bottom of the <a href='"
+msgstr ""
+
+#: tuning/theme-options.php:88
+msgid "Homepage"
+msgstr ""
+
+#: tuning/theme-options.php:89
+msgid "Homepage Options"
+msgstr ""
+
+#: tuning/theme-options.php:94
+msgid "Homepage Slider"
+msgstr ""
+
+#: tuning/theme-options.php:97
+msgid "Enable Slider"
+msgstr ""
+
+#: tuning/theme-options.php:99
+msgid "Check this box to enable the homepage slider."
+msgstr ""
+
+#: tuning/theme-options.php:101
+msgid "Enable the homepage slider"
+msgstr ""
+
+#: tuning/theme-options.php:105
+msgid "Slider Autoplay"
+msgstr ""
+
+#: tuning/theme-options.php:107
+msgid "Enter the amount of time, in milliseconds, each slide should show before changing. Leave blank to disable autoplay."
+msgstr ""
+
+#: tuning/theme-options.php:121
+msgid "Display"
+msgstr ""
+
+#: tuning/theme-options.php:122
+msgid "Display Options"
+msgstr ""
+
+#: tuning/theme-options.php:128
+msgid "Responsive"
+msgstr ""
+
+#: tuning/theme-options.php:131
+msgid "Enable Responsive Layout"
+msgstr ""
+
+#: tuning/theme-options.php:133
+msgid "Enable Tablet Layout"
+msgstr ""
+
+#: tuning/theme-options.php:133
+msgid "Enable Mobile Layout"
+msgstr ""
+
+#: tuning/theme-options.php:134
+msgid "Check the devices you wish to be responsive."
+msgstr ""
+
+#: tuning/theme-options.php:143
+msgid "Single Posts"
+msgstr ""
+
+#: tuning/theme-options.php:146
+msgid "Featured Images"
+msgstr ""
+
+#: tuning/theme-options.php:148
+msgid "Check this to display featured images on single posts."
+msgstr ""
+
+#: tuning/theme-options.php:150
+msgid "Display featured images on single posts"
+msgstr ""
+
+#: tuning/theme-options.php:161
+msgid "Sidebar Position"
+msgstr ""
+
+#: tuning/theme-options.php:163
+msgid "Sidebar<br />on Left"
+msgstr ""
+
+#: tuning/theme-options.php:163
+msgid "Sidebar<br />on Right"
+msgstr ""
+
+#: tuning/theme-options.php:165
+msgid "Choose the position of your sidebar."
+msgstr ""
+
+#: tuning/theme-options.php:173
+msgid "Portfolio Settings"
+msgstr ""
+
+#: tuning/theme-options.php:176
+msgid "Roundabout Autoplay"
+msgstr ""
+
+#: tuning/theme-options.php:178
+msgid "Enter the amount of time, in milliseconds, each image should show before changing. Leave blank to disable autoplay."
+msgstr ""
+
+#: tuning/theme-options.php:183
+msgid "Related Title"
+msgstr ""
+
+#: tuning/theme-options.php:185
+msgid "Enter the title for the related Portfolio items area. You can disable this area on a post-by-post basis from the Portfolio edit screen."
+msgstr ""
+
+#: tuning/theme-options.php:199
+msgid "General"
+msgstr ""
+
+#: tuning/theme-options.php:206
+msgid "Contact Form"
+msgstr ""
+
+#: tuning/theme-options.php:209
+msgid "Your Email Address"
+msgstr ""
+
+#: tuning/theme-options.php:211
+msgid "This theme includes a built-in contact form. Enter the email address you would like your messages sent to. To display the contact form on your site add <code>[contact-form]</code> anywhere in the content of a page or post."
+msgstr ""
+
+#: tuning/theme-options.php:216
+msgid "Preset Subject Choices"
+msgstr ""
+
+#: tuning/theme-options.php:218
+msgid "By default the contact form displays an empty Subject field for your visitors to specify when filling out the form. However, you can choose to provide a dropdown of Subject choices instead by listing them here, separated by commas. (Example: Support, Advertising, General Question)"
+msgstr ""
+
+#: tuning/theme-options.php:230
+msgid "RSS Feed URL"
+msgstr ""
+
+#: tuning/theme-options.php:232
+msgid "Enter your site's Feedburner or other RSS URL here. If left blank, the default WordPress feed will be used."
+msgstr ""
+
+#: tuning/theme-options.php:237
+msgid "Tracking Code"
+msgstr ""
+
+#: tuning/theme-options.php:239
+msgid "Paste your Google Analytics (or other) tracking code here. It will be inserted before the closing body tag of your theme."
+msgstr ""
+
