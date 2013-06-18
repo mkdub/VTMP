@@ -631,3 +631,13 @@ body{
 
 .fluid-width-video-wrapper{
 }
+
+.wp-caption{
+	background-color:#222;
+	color:#eaeaea;
+	font-style: italic;
+}
+
+.wp-caption p.wp-caption-text{
+	padding-top:0px;
+}
